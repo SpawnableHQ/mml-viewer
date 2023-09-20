@@ -4,6 +4,8 @@ Embeddable on-demand [MML](https://mml.io) (Metaverse Markup Language) rendering
 
 ## Usage
 
+Url: `https://view.spawnable.io?url={YOUR_MML_ORIGIN}`
+
 MML Viewer currently supports the following URL origins for the `url` parameter:
 
 - WebSocket URL of a Networked DOM
