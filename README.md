@@ -1,6 +1,6 @@
 # MML Viewer
 
-Embeddable on-demand [MML](https://mml.io) (Metaverse Markup Language) rendering service. Easily integrate immersive metaverse experiences into your website.
+An embeddable on-demand [MML](https://mml.io) (Metaverse Markup Language) rendering service for websites. Easily integrate immersive metaverse experiences into your website using iframes or web views.
 
 ## Usage
 
